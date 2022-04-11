@@ -9,4 +9,4 @@
 2. Algoritmo: Descreve o problema
 3. Codificação: Codificar a sequência de passos do algoritmo
 
-![PC](C:\Users\T-Gamer\Downloads\PC.png)
+![PC](C:\Users\T-Gamer\Downloads\PC.png "Gráfico")
