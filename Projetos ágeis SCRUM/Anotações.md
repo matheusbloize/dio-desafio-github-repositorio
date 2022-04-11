@@ -20,7 +20,7 @@ Um dos frameworks de gerenciamento de projetos ágeis
 
 Equipes pequenas e multidisciplinares = melhores resultados
 
-- **Transparência **
+- **Transparência**
 
 Conversar:heavy_plus_sign:Escrever:heavy_minus_sign:
 
